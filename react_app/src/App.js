@@ -2,13 +2,19 @@
 function App() {
   return (
     <nav>
-  <a href="#home">Home</a> |
-  <a href="#about">About</a> |
-  <a href="#services">Services</a> |
-  <a href="#portfolio">Portfolio</a> |
+  <a href="#home">Home</a> 
+  <br></br>
+  <a href="#about">About</a> 
+  <br></br>
+  <a href="#services">Services</a> 
+  <br></br>
+  <a href="#portfolio">Portfolio</a> 
+  <br></br>
   <a href="#contact">Contact</a>
 </nav>
   );
 }
 
+
 export default App;
+
