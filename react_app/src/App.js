@@ -11,6 +11,8 @@ function App() {
   <a href="#portfolio">Portfolio</a> 
   <br></br>
   <a href="#contact">Contact</a>
+  <br></br>
+  <a href="#contact">Help</a>
 </nav>
   );
 }
